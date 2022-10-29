@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+.body {
+  font-family: "Poppins", sans-serif;
+  letter-spacing: 4px;
+}
+
+#Mainheader {
+  font-family: "Anton", sans-serif;
+  letter-spacing: 4px;
+  font-size: 50px;
+  background: -webkit-linear-gradient(319deg,
+      #fb8a53 20%,
+      #e7041b 38%,
+      #ee3edb 56%,
+      #0c2dff 69%,
+      #3dadfe 80%,
+      #3dadfe 90%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  padding-top: 50px;
+  text-align: center;
+  
+}
+
+#Mainsubheader {
+  font-family: "Poppins", sans-serif;
+  letter-spacing: 4px;
+  font-size: 30px;
+  background: -webkit-linear-gradient(319deg,
+      #fb8a53 20%,
+      #e7041b 38%,
+      #ee3edb 56%,
+      #0c2dff 69%,
+      #3dadfe 80%,
+      #3dadfe 90%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+#filmcontainer {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-image: linear-gradient(to right, #f53844, #42378f);
+
+}
+
+#filmcontainer img {
+  text-align: center;
+  max-width: 50%;
+}
+
+#Filmcontainertitle {
+  letter-spacing: 4px;
+  text-align: center;
+  font-weight: 800;
+  padding-bottom: 10px;
+  color: white;
+}
+
+#Filmcontainerdescription {
+  text-align: left;
+  font-weight: 500;
+  letter-spacing: 1px;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+
+#Filmimage {
+  padding-bottom: 20px;
+}
+
+#bottomcontainerpadding {
+  padding-top: 50px;
+}
+
