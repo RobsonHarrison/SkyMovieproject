@@ -62,9 +62,10 @@ body {
 
 /*Moviecontainer background styling and iamge alignment*/
 #moviecontainer {
-  padding-bottom: 1%;
   background-image: linear-gradient(to right, #f53844, #42378f);
-  margin-bottom: 2%;
+  display: block;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 #moviecontainer img {
   max-width: 50%;
@@ -91,3 +92,8 @@ body {
   padding-right: 20px;
 }
 /*end*/
+
+#moviecontainerspacing {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+}
